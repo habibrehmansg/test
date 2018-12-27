@@ -1,8 +1,8 @@
 {
   "CardHolder": [
     {
-      "CardHolderID": "S1234567E",
-      "Name": "Alex",
+      "CardHolderID": "Test",
+      "Name": "Test",
       "DateOfBirth": "31/12/1990"
     }
   ]
